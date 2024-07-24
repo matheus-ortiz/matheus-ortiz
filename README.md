@@ -1,7 +1,7 @@
 - 👋 olá, meu nome é matheus henrique! Bem vindo ao meu perfil. 
 - 👀 Estou interessado em programar, e aprender mais sobre programação.
 - 🌱 estava programando em um javascriptt.
-- 💞️ colaboração e ajuda.
+- 🤙 colaboração e ajuda.
 - 📫 se comunique comigo atráves do meu instagram @req.matheus
 - 😄 ele/dele
 - ⚡ Fun fact: jogos de ação 
